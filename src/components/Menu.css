@@ -1,0 +1,22 @@
+.mcontainer{
+    display: flex;
+}
+.leftcontainer{
+    background-color: plum;
+    color: white;
+    width:30%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+}
+.rightcontainer{
+    
+    flex-direction: column;
+    display: flex;
+    width:70%;
+}
+.leftcontainer a{
+    color: white;
+    text-decoration: none;
+    margin:20px auto;
+}

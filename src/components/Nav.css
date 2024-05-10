@@ -1,0 +1,20 @@
+.maincontainer{
+    display: flex;
+}
+.leftcontainer{
+    background-color: plum;
+    color: white;
+    width:30%;
+}
+.rightcontainer{
+    background-color: plum;
+    color: white;
+    display: flex;
+    width:70%;
+}
+.rightcontainer a{
+    color: white;
+    text-decoration: none;
+    justify-content: space-between;
+    
+}
