@@ -1,0 +1,21 @@
+.navContainer{
+    display: flex;
+}
+.lContainer{
+    background-color: plum;
+    color: white;
+    width:30%;
+}
+.rContainer{
+    display: flex;
+    background-color: plum;
+    color: white;
+    width:70%;
+}
+.rContainer a{
+    color: white;
+    text-decoration: none;
+    justify-content: space-between;
+    margin: 15px auto;
+    
+}
